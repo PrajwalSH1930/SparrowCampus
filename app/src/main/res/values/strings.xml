@@ -1,0 +1,297 @@
+<resources>
+    <string-array name="dept_list">
+        <item>Select Branch</item>
+        <item>Civil Engineering</item>
+        <item>Computer Science and Engineering</item>
+        <item>Electronics and Communication Engineering</item>
+        <item>Electrical and Electronics Engineering</item>
+        <item>Mechanical Engineering</item>
+    </string-array>
+
+    <string-array name="fac_list">
+        <item>Select Faculty Type</item>
+        <item>Teaching</item>
+        <item>Non Teaching</item>
+    </string-array>
+
+    <string-array name="des_list">
+        <item>Select Designation</item>
+        <item>Principal</item>
+        <item>HOD</item>
+        <item>Associate Professor</item>
+        <item>Assistant Professor</item>
+        <item>Programmer</item>
+        <item>Assistant Programmer</item>
+        <item>Instructor</item>
+        <item>Foreman</item>
+        <item>Mechanic</item>
+    </string-array>
+
+
+
+    <string name="app_name">Sparrow Campus</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vision">
+        "To be a preferred institution in Engineering Education by achieving excellence in teaching and research and to remain as a source of pride for its commitment to holistic development of individual and society."
+    </string>
+    <string name="mission">
+        "To nurture and develop technically competent professionals with a strong ethical foundation to contribute to the socio-economic development of the nation and the world."
+    </string>
+    <string name="default_notification_channel_id">default_channel_id</string>
+    <string name="textviewsss">
+        <b>CORE VALUES</b>
+    </string>
+    <string name="textviewssss">"<b>Holistic Development :</b>
+       The Students are educated in a spiritual atmosphere under the blessings of His Holiness Mahaswamiji of Shri Math by adopting self-service, participative and cooperative learning and leadership practices along with academics."
+    </string>
+    <string name="textviewsssss">"<b>Student Centric Learning :</b>
+       To create student centric learning atmosphere by adopting experimental learning, mini projects, students seminars, internship program, industrial visits, technical competitions, project seminars, carrier guidance activities and extracurricular activities."
+    </string>
+    <string name="textviewssssss">"<b>Center of Excellence :</b>
+        To develop a centre of excellence in providing education in the field of Engineering and Technology to produce technically competent and socially responsible Engineering professionals."
+    </string>
+    <string name="textviewsssssss">"<b>Promoting prosperity :</b>
+        The sole objective is to provide Engineering Education to the rural youth of this region for prosperous carrier and development of society."
+    </string>
+    <string name="textviewssssssss">"<b>Environmental Consciousness :</b>
+        Students are educated to make optimum use of environmental resources like Soil/Land, Water and conserve the energy so that they can keep the campus clean, green and pollution free."
+    </string>
+    <string name="str1"><b>VISION:</b><br />
+    </string>
+    <string name="str2">"To be a preferred institution in Engineering Education by achieving excellence in teaching and research and to remain as a source of pride for its commitment to holistic development of individual and society"
+    </string>
+    <string name="str3"><b>MISSION:</b><br />
+    </string>
+    <string name="str4">"To continuously strive for the overall development of students, educating them in a state of the art infrastructure, by retaining the best practices, people and inspire them to imbibe real time problem solving skills, leadership qualities, human values and societal commitments, so that they emerge as competent professionals"
+    </string>
+    <string name="str5"><b>Program Educational Objectives(PEOs):</b><br />
+    </string>
+    <string name="str6"><b>The graduates will be able to:</b><br />
+    </string>
+    <string name="str7"><b>PEO1:</b><br />
+    </string>
+    <string name="str8">Acquire core competence in Applied Science, Mathematics and Mechanical Engineering fundamentals to excel in professional career and higher study.
+    </string>
+    <string name="str9"><b>PEO2:</b><br />
+    </string>
+    <string name="str10">Design, demonstrate and analyze the mechanical systems which are useful to society.
+    </string>
+    <string name="str11"><b>PEO3:</b><br />
+    </string>
+    <string name="str12">Maintain professional and ethical values, employability skills, multidisciplinary approach and an ability to realize engineering issues to broader social context by engaging in lifelong learning.
+    </string>
+    <string name="str13"><b>Program Specific Outcomes(PSOs):</b><br />
+    </string>
+    <string name="str14"><b>The graduates will be able to:</b>
+    </string>
+    <string name="str15"><b>PSO1:</b><br />
+    </string>
+    <string name="str16">Implement the basic Mechanical Engineering knowledge to solve societal and industrial problems.
+    </string>
+    <string name="str17"><b>PSO2:</b><br />
+    </string>
+    <string name="str18">Design and Analyze basic Mechanical system using relevant tools and techniques.
+    </string>
+    <string name="str19"><b>PSO3:</b><br />
+    </string>
+    <string name="str20">Understand and address current issues of industries through industry institute interaction and alumni social networks.
+    </string>
+    <string name="str21"><b>About Department:</b><br />
+    </string>
+    <string name="str22">The Mechanical Engineering Department started with the inception of the college in 1996. The department offers Undergraduate, Post graduate and Research Programs. Department is conducting full time post graduate program in Thermal Engineering. Mechanical Department has been approved as a Research Centre by Visvesvaraya Technological University, Belgaum to offer Ph.D. programs in the year 2014. It has well equipped Laboratories with state-of-art equipments and infrastructure facilities in thrust areas. Department has a total investment of Rs.1.3 crores.The mission of the department is to educate students to become globally competent. The Department of Mechanical Engineering shares the vision and mission of the institution in imparting quality education to the students.The department has an intake of 120 and total strength of 550 students. Mentorship concept is introduced in the department to monitor their performance and guide effectively by periodic counseling. The students of the department are well placed in industries and have established themselves as successful engineers since many years. Apart from the achievement in the academic performance the students of our department have presented papers in various National level competitions and brought laurels to the college by winning the awards. Several students’ projects have won National/State/Intercollegiate awards for their projects in competitions held at different organizations. Students have also qualified many national level examinations such as GATE and are very well placed in National and Multi-national companies. Quite a few of them have pursued higher studies in India and abroad. Mechanical Department students visited many Industries for industry orientation. More students undertook internship trainings in reputed companies. Students participated in various sports and cultural activities together with some important technical events. The department alumni students are extending guidance and support in guest lectures and placement.The department has a committed, highly experienced and motivated team of faculty members. All the staff members are postgraduate and have been serving in the institute since more than ten years. Many faculties of the department are undergoing Doctoral programs. Faculty members regularly attend technical seminars and workshops organized by various technical institutes, and many of them have presented papers in National and International conferences and seminars. An association of Mechanical Engineering students and staff has been constituted in the department named AIMSS and is involved in arranging expert lectures, co-curricular and extracurricular activities.The department received a grant of Rs. 20 Lakhs by VGST during the year 2013-14 for the research work on “Study of performance characteristics of IC engines through computerized data acquisition system including exhaust gas analyzer to suggest best alternative fuel”. One week Short Term Training Programme was organized by the department on the topic “Computational Fluid Dynamics” sponsored by ISTE-SRM, New Delhi with a grant of Rs. 1 lakh in the same year. Several students’ projects have been being funded by KSCST, ISSRD, VGST and other private bodies in the region.The department of Mechanical Engineering has MOUs with 15 leading and reputed industries of Karnataka and Maharashtra states. The department has professional body membership with ISTE and arranges the activities under the banner of ISTE. The department has well stacked library with 2000+ text and reference books for the students and staff fraternity.
+    </string>
+    <string name="str23"><b>Career Prospects:</b><br />
+    </string>
+    <string name="str24">Mechanical engineers provide efficient solutions to the development of processes and products, ranging from small component designs to extremely large plant, machinery or vehicles. They can work on all stages of a product, from research and development to design and manufacture, through to installation and final commissioning.
+Most industries rely on a form of mechanical systems and mechanical engineering is thought to be one of the most diverse of all engineering disciplines. There are employment opportunities available in a wide range of sectors, such as the manufacturing, power, construction, etc. Mechanical engineers can also be involved in the management of people and resources, as well as the development and use of new materials and technologies.
+    </string>
+    <string name="str25"><b>Laboratory Facilities Provided</b><br />
+    </string>
+    <string name="str26">
+        • Computer Aided Engineering Drawing Lab
+        • Computer Aided Machine Drawing Lab
+        • Computer Aided Modeling and Analysis Lab
+        • CIM and Automation Lab
+        • Design Lab
+        • Heat and Mass Transfer Lab
+        • Metallography and Material Testing Lab
+        • Mechanical Measurement and Metrology Lab
+        • Fluid Mechanics and Machines Lab
+        • Energy Lab
+        • Machine Shop Lab
+        • Foundry amd Forging Lab
+        • Basic Workshop Lab
+    </string>
+    <string name="str27"><b>Courses Offered:</b><br />
+    </string>
+    <string name="str28">
+        • B.E. Mechanical Engineering
+        • M.Tech. Thermal engineering
+        • Ph.D. in Mechanical Engineering
+    </string>
+
+    //Civil
+
+    <string name="civ5"><b>Program Educational Objectives(PEOs):</b><br />
+    </string>
+    <string name="civ6"><b>The graduates will be able to:</b><br />
+    </string>
+    <string name="civ7"><b>PEO1:</b><br />
+    </string>
+    <string name="civ8">Pursue a successful career in various domains of Civil Engineering Profession by acquiring knowledge in mathematical, scientific and engineering fundamentals.
+    </string>
+    <string name="civ9"><b>PEO2:</b><br />
+    </string>
+    <string name="civ10">Analyze and design Civil Engineering systems with social awareness and responsibility.
+    </string>
+    <string name="civ11"><b>PEO3:</b><br />
+    </string>
+    <string name="civ12">Exhibit professionalism, ethical approach, communication skills and teamwork in their profession and adapt to modern trends by engaging in lifelong learning.
+    </string>
+    <string name="civ13"><b>Program Specific Outcomes(PSOs):</b><br />
+    </string>
+    <string name="civ14"><b>The graduates will be able to:</b>
+    </string>
+    <string name="civ15"><b>PSO1:</b><br />
+    </string>
+    <string name="civ16">Inculcating in students practical knowledge and experimental skills to tackle Civil Engineering problems using technical and management skills, exhibiting professional ethics to meet the societal needs.
+    </string>
+    <string name="civ17"><b>PSO2:</b><br />
+    </string>
+    <string name="civ18">Provide solutions related to Civil Engineering built environment through a multidisciplinary approach .
+    </string>
+
+    <string name="civ21"><b>About Department:</b><br />
+    </string>
+    <string name="civ22">The Civil Engineering is popularly known as mother of all engineering branches. Four years of UG program in Civil Engineering is offered in this institution to meet the need of construction industry. The program is designed to attract and produce competent professionals in Civil Engineering discipline. The choice based credit system (CBCS) curriculum prescribed by VTU, Belagavi (2018-Scheme) is delivered. Special elective courses are offered to meet the modern technological updates in the construction industry.The Department has well equipped and spacious laboratories supported by experienced faculty. The department has Strength of Materials lab, Fluid Mechanics and Hydraulics lab, Geo-technology Lab and Surveying laboratory.
+    </string>
+    <string name="civ23"><b>Career Prospects:</b><br />
+    </string>
+    <string name="civ24">Mechanical engineers provide efficient solutions to the development of processes and products, ranging from small component designs to extremely large plant, machinery or vehicles. They can work on all stages of a product, from research and development to design and manufacture, through to installation and final commissioning.
+Most industries rely on a form of mechanical systems and mechanical engineering is thought to be one of the most diverse of all engineering disciplines. There are employment opportunities available in a wide range of sectors, such as the manufacturing, power, construction, etc. Mechanical engineers can also be involved in the management of people and resources, as well as the development and use of new materials and technologies.
+    </string>
+
+
+    //Computer science and engineering
+
+    <string name="cse5"><b>Program Educational Objectives(PEOs):</b><br />
+    </string>
+    <string name="cse6"><b>The graduates will be able to:</b><br />
+    </string>
+    <string name="cse7"><b>PEO1:</b><br />
+    </string>
+    <string name="cse8">Pursue a successful career in the field of Computer Science and Engineering by utilizing his/her knowledge and contribute to the profession as a competent employee, or as an entrepreneur .
+    </string>
+    <string name="cse9"><b>PEO2:</b><br />
+    </string>
+    <string name="cse10">Apply the knowledge of mathematics and computer science fundamentals to analyze and formulate the solution to solve real time problems.
+    </string>
+    <string name="cse11"><b>PEO3:</b><br />
+    </string>
+    <string name="cse12">Exhibit the professional and ethical values, communication and teamwork skills, lifelong learning, and multidisciplinary approach to address computer engineering and societal issues.
+    </string>
+    <string name="cse13"><b>Program Specific Outcomes(PSOs):</b><br />
+    </string>
+    <string name="cse14"><b>The graduates will be able to:</b>
+    </string>
+    <string name="cse15"><b>PSO1:</b><br />
+    </string>
+    <string name="cse16">Understand, design and analyze computer programs in the areas related to Algorithms, System Software, Web design, Bigdata Analytics, Machine Learning and Networking.
+    </string>
+    <string name="cse17"><b>PSO2:</b><br />
+    </string>
+    <string name="cse18">Make use of modern computer tools for creating innovative career paths to be an entrepreneur and desire for higher studies.
+    </string>
+    <string name="cse21"><b>About Department:</b><br />
+    </string>
+    <string name="cse22">
+        The Computer Science and Engineering Department was started in the year 1996 so as to provide students with analytical, design and communication skills necessary to build computing systems. The Department has grown by leaps and bounds over these years with active support from the Board of Management and the Principal to pursue research and development activities, along with continuous development in infrastructure.
+        The department has well equipped laboratories like Computer Programming Lab, System Lab, Microprocessor Lab, Algorithm Lab, and Computer Center with latest configuration and licensed Software which provide excellent facilities for learning and 50 Mbps leased Line 1:1 internet connection with secured Wi-Fi. You can have a detailed look at our CSE Department Lab Facilities
+        The Department also organizes technical talks and guest lectures for students and faculty members. The department has library facility with more than 750 well stacked books where each student is issued one book which can be retained for the whole semester. In the final year projects one project has bagged the 2nd place in National Level ISSRD Project Competition and two projects have been selected for KSCST and one won the outstanding project award in 2014
+    </string>
+
+
+    //Electronics and Communication Engineering
+
+    <string name="ec5"><b>Program Educational Objectives(PEOs):</b><br />
+    </string>
+    <string name="ec6"><b>The graduates will be able to:</b><br />
+    </string>
+    <string name="ec7"><b>PEO1:</b><br />
+    </string>
+    <string name="ec8">Acquire core competence in Applied Science, Mathematics, and Electronics and Communication Engineering fundamentals to excel in professional carrier and higher study.
+    </string>
+    <string name="ec9"><b>PEO2:</b><br />
+    </string>
+    <string name="ec10">Design, Demonstrate and Analyze the Electronic Systems which are useful to society.
+    </string>
+    <string name="ec11"><b>PEO3:</b><br />
+    </string>
+    <string name="ec12">Maintain Professional and Ethical values, Employability skills, Multidisciplinary approach and an Ability to realize Engineering issues to broader social contest by engaging in lifelong learning.
+    </string>
+    <string name="ec13"><b>Program Specific Outcomes(PSOs):</b><br />
+    </string>
+    <string name="ec14"><b>The graduates will be able to:</b>
+    </string>
+    <string name="ec15"><b>PSO1:</b><br />
+    </string>
+    <string name="ec16">An ability to understand the concepts of Basic Electronics and Communication Engineering and to apply them to various areas like Signal Processing, VLSI, Embedded Systems, Communication Systems and Digital and Analog Devices
+    </string>
+    <string name="ec17"><b>PSO2:</b><br />
+    </string>
+    <string name="ec18">An ability to solve complex Electronics and Communication Engineering problems, using latest hardware and software tools, along with analytical skills to arrive at cost effective and appropriate solutions
+    </string>
+    <string name="ec21">
+        <b>About Department:</b><br />
+    </string>
+    <string name="ec22">
+        The Department of Electronics and Communication Engineering was started in the year 1996 as one among the four disciplines of Engineering in the Institute.
+The Department is having well experienced and qualified faculty members having good knowledge of both industry and academics. The Department has 8 lab namely AE Lab, LD Lab, Advanced Communication Lab, AC+LIC Lab, VHDL/VLSI Lab, PE Lab and MC/DSP Lab with good quality instruments and latest versions of licensed software, digital CROs and signal generators. Air-Conditioned VLSI Design Lab with latest versions of communication equipments is established where the students can get real time knowledge of the subjects and develop themselves to face the challenges of the industry.
+The Department is having an Association of Students and Staff called ECSA (Electronics and Communication Students and Staff Association). The sole purpose of the Association is to bring out the hidden talents (technical and non- technical) of the students by organizing different department level activities.
+Students counseling is conducted on regular basis and students performance in I A tests as well as attendance status is communicated to their parents/guardians for the purpose of constant monitoring.
+    </string>
+
+
+    // Electrical and Electronics Engineering
+
+
+    <string name="ee5"><b>Program Educational Objectives(PEOs):</b><br />
+    </string>
+    <string name="ee6"><b>The graduates will be able to:</b><br />
+    </string>
+    <string name="ee7"><b>PEO1:</b><br />
+    </string>
+    <string name="ee8">Achieve successful professional career in Electrical Engineering and allied disciplines.
+    </string>
+    <string name="ee9"><b>PEO2:</b><br />
+    </string>
+    <string name="ee10">Pursue higher studies and continuously engage in upgrading the professional skills.
+    </string>
+    <string name="ee11"><b>PEO3:</b><br />
+    </string>
+    <string name="ee12">Demonstrate professional and ethical values, effective communication skills and teamwork to solve issues related to profession, society and environment.
+    </string>
+    <string name="ee13"><b>Program Specific Outcomes(PSOs):</b><br />
+    </string>
+    <string name="ee14"><b>The graduates will be able to:</b>
+    </string>
+    <string name="ee15"><b>PSO1:</b><br />
+    </string>
+    <string name="ee16">Apply knowledge and competencies to analyze and design Electrical and Electronics circuits, control and power systems, machines and industrial drives.
+    </string>
+    <string name="ee17"><b>PSO2:</b><br />
+    </string>
+    <string name="ee18">Use software/hardware tools for the design, simulation and analysis of Electrical and Electronics Systems.
+    </string>
+    <string name="ee21"><b>About Department:</b><br />
+    </string>
+    <string name="ee22">
+        The Department was established in the year 1996 with an intake of 60 students. The Department has well experienced, qualified and committed faculty to train students to meet the needs of today\'s competitive world. The faculty is encouraged to upgrade their knowledge by regularly attending workshops, seminars, conferences, presenting and publishing their work in peer reviewed conferences and journals. Faculty members are actively involved in research and academic development.
+        The department has made significant growth in terms of infrastructural and academic standards. The department has fully equipped laboratories/licensed software to impart practical knowledge of students who can take up any assignment after their graduation. The various Laboratories established in the department are Electrical Machines lab, Electronics lab, Op-amp and Linear ICs Laboratory, Microcontroller lab, Power electronics lab, Control system lab, digital signal processing lab, Power system simulation, Relay and High voltage Laboratory.
+        The Department arranges industrial visits for various industries and power plants for students as part of their curriculum. The Department also encourages the staff members to pursue Ph. D programmes to improve their academic qualifications.
+        The department periodically organizes workshops and arranges guest lectures by external faculty, industry persons for the benefit of the students and faculty. The department periodically conducts Technical Seminar/Quizzes, remedial classes for the weak students and also Communication Skill development classes for the benefit of Students. The students have consistently performed well in the University Examinations. The students are actively participating in the co-curricular and extra-curricular activities and bagged many prizes.
+        Few projects of final year students have been sponsored by KSCST and bagged many prizes in the State level project exhibitions held at various colleges affiliated to VTU. Students are placed in many of the good companies throughout India and abroad.
+        The Department is having an Association of Staff and Students i.e. EESSA (Electrical and Electronics Staff and Students Association). The association was formed in the year 1999 the sole purpose of the Association is to provide platform for students to exhibit their talents in co-curricular and extra-curricular activities. The Association is conducting many activities like paper presentation, quiz, trouble shooting competition, cricket Match etc. Under the support of EESSA, Department magazine and news letters are being released regularly.
+    </string>
+</resources>

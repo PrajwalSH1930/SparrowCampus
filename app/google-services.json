@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "205687996917",
+    "firebase_url": "https://sparrow-campus-5b0c9-default-rtdb.firebaseio.com",
+    "project_id": "sparrow-campus-5b0c9",
+    "storage_bucket": "sparrow-campus-5b0c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205687996917:android:cfc24d660c91f333a1a0bc",
+        "android_client_info": {
+          "package_name": "com.example.sparrowcampus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVL3-4ZMFk0Q9O6T-ChKkqGHmP0-1j1E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

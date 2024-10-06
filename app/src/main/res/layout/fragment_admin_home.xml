@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="48dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".AdminHomeFragment">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:src="@drawable/header"
+                android:layout_height="60dp"/>
+
+            <ViewFlipper
+                android:id="@+id/viewFlipper"
+                android:layout_width="match_parent"
+                android:layout_height="280dp"
+                android:autoStart="true"
+                android:layout_marginBottom="12dp"
+                android:flipInterval="3000"
+                android:inAnimation="@android:anim/slide_out_right"
+                android:outAnimation="@android:anim/slide_in_left">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="5dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/hit1" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="5dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/hit2" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="5dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/hit3" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="5dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/hit4" />
+            </ViewFlipper>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="12dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/brown"
+                android:background="@color/white"
+                android:textIsSelectable="true"
+                android:text="Vision"/>
+
+            <com.codesgood.views.JustifiedTextView
+                android:id="@+id/visionTextView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:justificationMode="inter_word"
+                android:padding="12dp"
+                android:textSize="15sp"
+                android:textColor="@color/black"
+                android:background="@color/white"
+                android:textIsSelectable="true"
+                android:text="@string/vision"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="12dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/brown"
+                android:background="@color/white"
+                android:textIsSelectable="true"
+                android:text="Mission"/>
+
+            <com.codesgood.views.JustifiedTextView
+                android:id="@+id/visionTextViews"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:padding="12dp"
+                android:textSize="15sp"
+                android:textColor="@color/black"
+                android:background="@color/white"
+                android:textIsSelectable="true"
+                android:text="@string/mission"/>
+
+            <TextView
+                android:id="@+id/visionTextViewss"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="12dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/brown"
+                android:background="@color/white"
+                android:textIsSelectable="true"
+                android:text="Core Values"/>
+
+            <com.codesgood.views.JustifiedTextView
+                android:id="@+id/visionTextViewsss"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="12dp"
+                android:justificationMode="inter_word"
+                android:textSize="15sp"
+                android:textColor="@color/black"
+                android:background="@color/white"
+                android:textIsSelectable="true"
+                android:text="@string/textviewssss"/>
+
+            <com.codesgood.views.JustifiedTextView
+                android:id="@+id/visionTextViewssss"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="12dp"
+                android:textSize="15sp"
+                android:textColor="@color/black"
+                android:background="@color/white"
+                android:textIsSelectable="true"
+                android:text="@string/textviewsssss"/>
+
+            <com.codesgood.views.JustifiedTextView
+                android:id="@+id/visionTextViewsssss"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="12dp"
+                android:textSize="15sp"
+                android:textColor="@color/black"
+                android:background="@color/white"
+                android:textIsSelectable="true"
+                android:text="@string/textviewssssss"/>
+
+            <com.codesgood.views.JustifiedTextView
+                android:id="@+id/visionTextViewssssss"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="12dp"
+                android:textSize="15sp"
+                android:textColor="@color/black"
+                android:background="@color/white"
+                android:textIsSelectable="true"
+                android:text="@string/textviewsssssss"/>
+
+            <com.codesgood.views.JustifiedTextView
+                android:id="@+id/visionTextViewsssssss"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="12dp"
+                android:textSize="15sp"
+                android:textColor="@color/black"
+                android:background="@color/white"
+                android:textIsSelectable="true"
+                android:text="@string/textviewssssssss"/>
+
+            <TextView
+                android:id="@+id/courses"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="12dp"
+                android:layout_marginBottom="12dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/brown"
+                android:background="@color/white"
+                android:textIsSelectable="true"
+                android:text="Courses"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/civil"
+                    android:layout_width="wrap_content"
+                    android:text="Civil Engineering"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:padding="12dp"
+                    android:textColor="@color/black"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text=">>"
+                    android:gravity="right"
+                    android:textSize="18sp"
+                    android:textColor="@color/brown"
+                    android:textStyle="bold"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="12dp"
+                android:alpha="0.5"
+                android:background="@color/brown"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/cse"
+                    android:layout_width="wrap_content"
+                    android:text="Computer Science &amp; Engineering"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:padding="12dp"
+                    android:textColor="@color/black"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text=">>"
+                    android:gravity="right"
+                    android:textSize="18sp"
+                    android:textColor="@color/brown"
+                    android:textStyle="bold"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="12dp"
+                android:alpha="0.5"
+                android:background="@color/brown"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/ece"
+                    android:layout_width="wrap_content"
+                    android:text="Electronics &amp; Communication Engineering"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:padding="12dp"
+                    android:textColor="@color/black"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text=">>"
+                    android:gravity="right"
+                    android:textSize="18sp"
+                    android:textColor="@color/brown"
+                    android:textStyle="bold"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="12dp"
+                android:alpha="0.5"
+                android:background="@color/brown"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/eee"
+                    android:layout_width="wrap_content"
+                    android:text="Electrical &amp; Electronics Engineering"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:padding="12dp"
+                    android:textColor="@color/black"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text=">>"
+                    android:gravity="right"
+                    android:textSize="18sp"
+                    android:textColor="@color/brown"
+                    android:textStyle="bold"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="12dp"
+                android:alpha="0.5"
+                android:background="@color/brown"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/me"
+                    android:layout_width="wrap_content"
+                    android:text="Mechanical Engineering"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:padding="12dp"
+                    android:textColor="@color/black"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text=">>"
+                    android:gravity="right"
+                    android:textSize="18sp"
+                    android:textColor="@color/brown"
+                    android:textStyle="bold"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/contact"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="12dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginBottom="12dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/brown"
+                android:background="@color/white"
+                android:textIsSelectable="true"
+                android:text="Contact Us"/>
+
+            <LinearLayout
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/email"
+                    android:layout_width="match_parent"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:layout_marginBottom="12dp"
+                    android:drawableLeft="@drawable/baseline_email_24"
+                    android:text="principal@hsit.ac.in"
+                    android:drawablePadding="10dp"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:id="@+id/officePhone"
+                    android:textSize="15sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_marginBottom="12dp"
+                    android:text="Office : 08333-278887"
+                    android:drawableLeft="@drawable/baseline_call_24"
+                    android:drawablePadding="10dp"
+                    android:textColor="@color/black"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:id="@+id/mobile1"
+                    android:textSize="15sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_marginBottom="12dp"
+                    android:text="Mobile : 9480849331"
+                    android:drawableLeft="@drawable/baseline_call_24"
+                    android:drawablePadding="10dp"
+                    android:textColor="@color/black"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:id="@+id/mobile2"
+                    android:textSize="15sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_marginBottom="12dp"
+                    android:text="Mobile : 9480849346/41/33"
+                    android:drawableLeft="@drawable/baseline_call_24"
+                    android:drawablePadding="10dp"
+                    android:textColor="@color/black"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:id="@+id/fax"
+                    android:textSize="15sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_marginBottom="12dp"
+                    android:text="Fax : 08333-278886"
+                    android:drawableLeft="@drawable/baseline_call_24"
+                    android:drawablePadding="10dp"
+                    android:textColor="@color/black"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:id="@+id/location"
+                    android:textSize="15sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_marginBottom="12dp"
+                    android:text="Hirasugar Institute of Technology, Nidasoshi - 591 236"
+                    android:drawableLeft="@drawable/baseline_add_location_alt_24"
+                    android:drawablePadding="10dp"
+                    android:textColor="@color/black"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:padding="12dp"
+                android:textColor="@color/white"
+                android:layout_marginTop="16dp"
+                android:background="@color/grey"
+                android:layout_marginBottom="9dp"
+                android:layout_width="match_parent"
+                android:text="Copyright &#169; 2024"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

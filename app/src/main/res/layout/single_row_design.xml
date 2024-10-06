@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    android:id="@+id/profileCard"
+    app:cardElevation="8dp"
+    app:cardUseCompatPadding="true"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:elevation="3dp"
+            android:padding="6dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/baseline_person_outline_24"
+            android:id="@+id/profileImg"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="10dp"
+            android:layout_marginTop="-16dp"
+            android:layout_height="10dp"
+            android:elevation="5dp"
+            android:id="@+id/isOnline"
+            android:layout_below="@id/profileImg"
+            android:background="@drawable/rounded_bg"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/name"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@id/profileImg"
+            android:layout_marginLeft="10dp"
+            android:text="FullName"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/des"
+            android:text="Designation"
+            android:layout_marginTop="5dp"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@id/profileImg"
+            android:layout_below="@id/name"
+            android:layout_marginLeft="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/phone"
+            android:text="Phone"
+            android:textSize="15sp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@id/profileImg"
+            android:layout_below="@id/des"
+            android:layout_marginLeft="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/email"
+            android:text="email"
+            android:textSize="15sp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@id/profileImg"
+            android:layout_below="@id/phone"
+            android:layout_marginLeft="10dp"/>
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

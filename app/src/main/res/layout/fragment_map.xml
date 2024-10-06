@@ -1,0 +1,14 @@
+<!-- res/layout/fragment_map.xml -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MapFragment"
+    android:layout_height="match_parent">
+
+    <org.rajawali3d.view.SurfaceView
+        android:id="@+id/rajawali_surface"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</FrameLayout>
